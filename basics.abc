@@ -1,6 +1,4 @@
-[
-  {
-    abc: `X:1
+X:1
 T:Highland Laddie
 L:1/8
 Q:80
@@ -10,6 +8,4 @@ K:HP
 |: {g}A/>B/ | {Gdc}d>e {g}fa | g/>f/e/>d/ {g}f2 | {gfg}fe {gef}e{g}d/>e/ | {gfg}fe {gef}ef/<{e}B/|!
 |{Gdc}d>e {g}fa | g/>f/e/>d/ {g}f{g}e/>f/ | {Gdc}d{e}B {gBd}B{g}A/>B/ | {Gdc}d{e}B {gBd}B :|!
 |:{gf}g | {ag}ag/<f/ {gf}gf/<e/ | {gfg}f{g}e/<d/ {g}f2 | {gfg}fe {gef}e{g}d/>e/ | {gfg}fe {gef}e{gf}g |!
-|{ag}ag/<f/ {gf}gf/<e/ | {gfg}f{g}e/<d/ {g}f{g}e/>f/ | {Gdc}d{e}B {gBd}B{g}A/>B/ | {Gdc}d{e}B {gBd}B :|!`
-  },
-]
+|{ag}ag/<f/ {gf}gf/<e/ | {gfg}f{g}e/<d/ {g}f{g}e/>f/ | {Gdc}d{e}B {gBd}B{g}A/>B/ | {Gdc}d{e}B {gBd}B :|!
