@@ -2,10 +2,22 @@ X:1
 T:Highland Laddie
 L:1/8
 Q:80
-C:Traditional
-S:March
 K:HP
 |: {g}A/>B/ | {Gdc}d>e {g}fa | g/>f/e/>d/ {g}f2 | {gfg}fe {gef}e{g}d/>e/ | {gfg}fe {gef}ef/<{e}B/|!
 |{Gdc}d>e {g}fa | g/>f/e/>d/ {g}f{g}e/>f/ | {Gdc}d{e}B {gBd}B{g}A/>B/ | {Gdc}d{e}B {gBd}B :|!
 |:{gf}g | {ag}ag/<f/ {gf}gf/<e/ | {gfg}f{g}e/<d/ {g}f2 | {gfg}fe {gef}e{g}d/>e/ | {gfg}fe {gef}e{gf}g |!
 |{ag}ag/<f/ {gf}gf/<e/ | {gfg}f{g}e/<d/ {g}f{g}e/>f/ | {Gdc}d{e}B {gBd}B{g}A/>B/ | {Gdc}d{e}B {gBd}B :|!
+
+X:1
+T:79th's Farewell to Gibraltar, The
+L:1/8
+Q:80
+K:HP
+|: {g}c/>d/ | {g}e>f {gef}ec | {g}A2 {GdGe}Aa | {fg}f{g}e/>c/ {g}e/>f/{g}e/>d/ | {gcd}c{g}B {GdGe}B{g}c/>d/ |!
+{g}e>f {gef}ec | {g}A2 {GdGe}Aa | {fg}f{g}e/>c/ {g}e/>f/{g}e/>d/ | {gcd}c{e}A {GAG}A:|
+|:a | {fg}f{g}e/>c/ {g}e/>f/a/>e/ | {g}f/<a/e/>c/ {gBd}B{ag}a | {fg}f{g}e/>c/ {g}e/>f/a/>e/ | {gfg}f{g}B {GdGe}B{ag}a |!
+{fg}f{g}e/>c/ {g}e/>f/a/>e/ | {g}f/<a/e/>c/ {gBd}B{ag}a | {fg}f{g}e/>c/ {g}e/>f/a/>e/ | {gcd}c{e}A {GAG}A:|
+|:{gcd}c/>B/ | {g}A>B {GdG}ca | {fg}f{g}e/>c/ {gBd}B{gcd}c/>B/ | {g}A/>B/{GdG}c/>d/ {g}e/>f/{gef}e/>c/ | {gfg}f{g}B {GdGe}B{gcd}c/>B/ |
+{g}A>B {GdG}ca | {fg}f{g}e/>c/ {gBd}B{ag}a | {fg}f{g}e/>c/ {g}e/>f/a/>e/ | {gcd}c{e}A {GAG}A:|
+|:{g}c/>d/ | {g}e>f {gef}e{g}c | {g}e2 {GdG}ea | {fg}f>e {g}f{ag}a | {fg}f>e {gcd}ca |
+{fg}f{g}e/>c/ {gcd}c{g}B/<{d}A/ | {g}B/<{d}A/{g}B/>{d}c/ {gef}ea | {fg}f{g}e/>c/ {g}e/>f/a/>e/ | {gcd}c{e}A {GAG}A:|!
