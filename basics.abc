@@ -26,13 +26,14 @@ X: 1
 T:The Atholl Highlanders
 M:6/8
 L:1/8
+Q:3/8=80
 K:HP
-|: {g}c<d | {gef}e3 {gef}e>c{d}A | {gef}e>c{d}A {e}B>cd | {gef}e3 {gef}e>c{d}A | {e}B>cd {fcd}c>B{G}A |!
-| {gef}e3 {gef}e>c{d}A | {gef}e>c{d}A {e}B>cd | {e}c<ae {g}f>ed | {g}cd>{e}B {G}A :|!
+|: {g}c<d | {gef}e3 {gef}e>c{d}A | {gef}e>c{d}A {g}B>cd | {gef}e3 {gef}e>c{d}A | {g}B>cd {fcd}c>B{G}A |!
+| {gef}e3 {gef}e>c{d}A | {gef}e>c{d}A {g}B>cd | {g}c<ae {g}f>ed | {g}c<d{e}B {G}A2 :|!
 |: e | {g}A>{d}ce {g}A>{d}ce | {g}B>df {g}B>df | {g}A>{d}ce {g}A>{d}ce | {g}B>cd {gcd}c>B{G}A |!
-| {g}A>{d}ce {g}A>{d}ce | {g}B>df {g}B>df | {g}c<ae {g}f>ed | {g}c<d{e}B {G}A :|!
+| {g}A>{d}ce {g}A>{d}ce | {g}B>df {g}B>df | {g}c<ae {g}f>ed | {g}c<d{e}B {G}A2 :|!
 | e | a2 {GdG}e {gef}e>dc | a2 {GdG}e {gef}e>dc | a2 {GdG}e {gef}e>dc | {g}B>cd {gcd}c2 e |!
-| [1 a2 {GdG}e {gef}e>dc | a2 {GdG}e {gef}e2 d | {g}c>ae {g}f>ed | {g}c>d{e}B {G}A :|!
-| [2 a2 {GdG}e a2 {GdG}e | f2 {GdG}f {gef}e2 d | {g}c>ae {g}f>ed| {g}>cd{e}B {G}A ]|! 
+| [1 a2 {GdG}e {gef}e>dc | a2 {GdG}e {gef}e2 d | {g}c>ae {g}f>ed | {g}c<d{e}B {G}A2 :|!
+| [2 a2 {GdG}e a2 {GdG}e | f2 {GdG}f {gef}e2 d | {g}c>ae {g}f>ed| {g}c<d{e}B {G}A2 ]|! 
 |: B | {g}c<{d}A{d}c {g}c<{d}A{d}c | {gde}d>Bd {gde}d>Bd | {g}c<{d}A{d}c {g}c<{d}A{d}c | {g}B<{d}G{d}B {g}B>cd |!
 | {g}c<{d}A{d}c {g}c<{d}A{d}c | {gde}d>Bd {gde}d>Bd | {g}d<ae {g}f>ed | {g}c<d{e}B {G}A2 :|
