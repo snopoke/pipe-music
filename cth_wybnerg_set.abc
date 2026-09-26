@@ -38,3 +38,12 @@ M:C
 | {g}e2-ef/2g/2 {a}e2-eA | {g}e2-ec {g}d>{g}c-c{g}A | {g}G2-G2 {g}A2-A{d}B | {g}A2-A2-A2-Aa |!
 | {fg}f2 {g}e<d {gef}e2 f<g | {a}f<a {f}gf {g}e2-ea | {f}g>{a}f-fe {g}d>{e}A-A{d}B | {g}G2-G2-G2-Ga |!
 | {fg}f2 {g}e<d {gef}e2 f<g | {a}f<a {f}gf {g}e2-ea | {f}g>{a}f-fe {g}d>{e}A -A{d}B | {g}G2-G2-G2-G{d}A |
+
+X:1
+T:Rainbow Country
+L:1/8
+Q:80
+K:HP
+M:C
+|: a2 e2 {g}d>c-c{G}A | {g}A4-A2-Ae | a2 e2 {g}d>c-c{G}A | {g}G4-G2-Ge |!
+| a2 e2 {g}d>c-c{G}A | {g}G2 B2 {g}d>c-cG | {g}A4-A2-Ae :|
