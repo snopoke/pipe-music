@@ -57,3 +57,13 @@ M:C
 |: {af}a2 {f}g f | {gef}e2 {gfg}f g/2a/2 | c {GdG}c {Gdc}d {e}B | {G}A2 {GAG}A e :|
 | {gcd}c {e}A {gcd}c e | {ag}a2 {fg}f g/2a/2 | {f}g e {gfg}f {g}d | {gef}e2 {g}f g |
 | {ag}a2 {f}g f | {gef}e2 {gfg}f g/2a/2| c {GdG}c {Gdc}d {e}B | {G}A2-A2||
+
+X:1
+T:When the Piper Plays
+L:1/8
+Q:80
+K:HP
+|| {g}f4-fe {g}d>B | {G}A4-A{Gdc}d {g}dc | {Gdc}d4-d {g}d/2e/2 fg | {a}e4-e{A}e {g}f>g |!
+| {ag}a4-a g/2f/2 {g}ed | {g}f>d {G}A2-Af {g}d>B | {G}A4-A{GAG}A{g}Bd | {GdG}d4-dA {g}d>e||
+|| {g}f4-fe {g}d>B | {G}A4-A{Gdc}d {g}dc | {Gdc}d4-d {g}d/2e/2 fg | {a}e4-e{A}e {g}f>g |!
+| {ag}a4-a g/2f/2 {g}ed | {g}f>d {G}A2-Af {g}d>B | {G}A4-A{GAG}A{g}Bd | {gdc}d8 ||
